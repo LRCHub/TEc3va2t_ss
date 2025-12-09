@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "FLOATIN'",
+  "base_artist": "舐達麻",
+  "createdAt": "2025-12-09T14:50:51.043863Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Got Me Floatin'",
+      "artist": "The Jimi Hendrix Experience",
+      "has_synced": true,
+      "path": "select/01_You_Got_Me_Floatin'_The_Jimi_Hendrix_Experience.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Got Me Floatin'",
+      "artist": "Jimi Hendrix",
+      "has_synced": true,
+      "path": "select/02_You_Got_Me_Floatin'_Jimi_Hendrix.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Got Me Floatin'",
+      "artist": "Joan Jett & The Blackhearts",
+      "has_synced": false,
+      "path": "select/03_You_Got_Me_Floatin'_Joan_Jett_&_The_Blackhearts.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Got Me Floatin'",
+      "artist": "Joan Jett and the Blackhearts",
+      "has_synced": false,
+      "path": "select/04_You_Got_Me_Floatin'_Joan_Jett_and_the_Blackhearts.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Floatin' on Your Love",
+      "artist": "The Isley Brothers",
+      "has_synced": false,
+      "path": "select/05_Floatin'_on_Your_Love_The_Isley_Brothers.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Got Me Floatin'",
+      "artist": "Jimi Hendrix Experience",
+      "has_synced": true,
+      "path": "select/06_You_Got_Me_Floatin'_Jimi_Hendrix_Experience.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Keep Floatin' (feat. Wiz Khalifa)",
+      "artist": "Mac Miller feat. Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/07_Keep_Floatin'_(feat._Wiz_Khalifa)_Mac_Miller_feat._Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Keep Floatin' (feat. Wiz Khalifa)",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/08_Keep_Floatin'_(feat._Wiz_Khalifa)_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Floatin' on Your Love",
+      "artist": "Isley Brothers f-Angela Winbush",
+      "has_synced": false,
+      "path": "select/09_Floatin'_on_Your_Love_Isley_Brothers_f-Angela_Winbush.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Keep Floatin'",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/10_Keep_Floatin'_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Floatin' Down To Cotton Town",
+      "artist": "The Chordettes",
+      "has_synced": false,
+      "path": "select/11_Floatin'_Down_To_Cotton_Town_The_Chordettes.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Floatin' This Creek",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/12_Floatin'_This_Creek_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Floatin’ This Creek",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/13_Floatin’_This_Creek_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Floatin'",
+      "artist": "Charlie Wilson, Justin Timberlake & will.i.am",
+      "has_synced": true,
+      "path": "select/14_Floatin'_Charlie_Wilson,_Justin_Timberlake_&_will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Floatin'",
+      "artist": "Justin Timberlake/Charlie Wilson/Will.I.Am",
+      "has_synced": true,
+      "path": "select/15_Floatin'_Justin_Timberlake_Charlie_Wilson_Will.I.Am.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FLOATIN'",
+      "artist": "舐達麻",
+      "has_synced": false,
+      "path": "select/pl_01_FLOATIN'_舐達麻.txt"
+    }
+  ]
+}
